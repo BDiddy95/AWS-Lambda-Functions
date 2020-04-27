@@ -1,0 +1,1 @@
+Whenever a message is placed in the queue, the Lambda function will be triggered, reading the contents of that message and inserting its data as a record into DynamoDB.
