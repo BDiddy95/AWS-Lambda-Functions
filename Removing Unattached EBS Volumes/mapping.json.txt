@@ -1,0 +1,8 @@
+JSON file (remember to replace the value for DeviceName with the correct value for your device name):
+
+[{
+  "DeviceName": "/dev/xvda",
+  "Ebs": {
+    "DeleteOnTermination": false
+  }
+}]
