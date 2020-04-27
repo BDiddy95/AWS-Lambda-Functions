@@ -1,0 +1,3 @@
+These files can be used if ou want to back up a dynamodb table to an s3 bucket every day.
+An Amazon CloudWatch Events rule will triger an AWS Lambda function daily. 
+
